@@ -1,0 +1,89 @@
+body{
+  background: rgba(255, 255, 255, 0.973);
+}
+.container-body{
+  padding-top: 70px;
+}
+i{
+  margin:2px;
+  /* font-size: 20px; */
+}
+.well{
+  background: rgb(253, 252, 216);
+}
+.navbar{
+  padding: 0px;
+  position: fixed;
+  z-index: +1;
+  left: 0;
+  right: 0;
+  margin: 0px;
+  background: rgb(253, 252, 216);
+  border-top-color:  rgb(5, 43, 92);
+  border-top-width: 8px;
+  border-radius: 0;
+
+}
+ul{
+  padding: 0px;
+  margin: 0px;
+}
+.navbar-brand{
+  padding: 0px;
+  margin:0px;
+}
+.navbar-brand>img {
+  /* display: -webkit-box; */
+  /* size: 30px; */
+  width: 45px;
+  padding: 0px;
+  margin: 0px;
+}
+.navbar-nav>li{
+  margin: 0px;
+  padding-top: 13px;
+  padding-bottom: 15px;
+}
+.logout>li{
+  margin: 0px;
+  padding-top: 8px;
+  padding-bottom: 0px;
+}
+.badge{
+  padding : 0px;
+  background: rgb(255, 255, 255);
+  color:rgb(5, 12, 83);
+  padding-left: 5px;
+}
+/* .navbar-nav>li:hover{
+  background: rgb(28, 72, 167);
+  color: rgb(104, 7, 7);
+} */
+a{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 19px;
+  padding-bottom: 19px;
+}
+a:active{
+  background: rgb(5, 43, 92);
+}
+a:hover{
+  /* padding: 15px; */
+  background: rgb(5, 43, 92);
+  color : white;
+  text-decoration: none;
+}
+.btn{
+  margin-right: 5px;
+}
+.form-horizontal{
+}
+
+.register-form{
+  width: 100%;
+}
+
+.modal-header .modal-footer{
+  background: rgb(253, 252, 216);
+}

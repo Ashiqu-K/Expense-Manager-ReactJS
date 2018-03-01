@@ -1,0 +1,159 @@
+{
+  "users": [
+    {
+      "name": "Muhammed Ashiq K",
+      "userName": "ashiqu356",
+      "email": "ashiquk@skewbird.com",
+      "password": "1198",
+      "confirmPassword": "1198",
+      "id": 1
+    },
+    {
+      "password": "1234",
+      "confirmPassword": "1234",
+      "name": "Aseel Abdul Kader",
+      "userName": "asee",
+      "email": "aseel@skewbird.com",
+      "id": 2
+    },
+    {
+      "name": "Admin",
+      "email": "admin@skewbird.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "name": "Travel",
+      "id": 7
+    },
+    {
+      "name": "Food",
+      "id": 8
+    },
+    {
+      "name": "Shopping",
+      "id": 9
+    },
+    {
+      "name": "Movie",
+      "id": 11
+    },
+    {
+      "name": "Registration fee",
+      "id": 12
+    }
+  ],
+  "expenses": [
+    {
+      "date": "2017-12-01",
+      "amount": "100",
+      "category": "Shopping",
+      "details": "parava film",
+      "id": 1
+    },
+    {
+      "date": "2017-12-02",
+      "amount": "47",
+      "category": "Travel",
+      "details": "Bus ticket",
+      "id": 2
+    },
+    {
+      "date": "2017-12-14",
+      "amount": "1500",
+      "category": "Exam Fee",
+      "details": "Gate 2017 registration",
+      "id": 3
+    },
+    {
+      "date": "2017-12-14",
+      "amount": "40",
+      "category": "Food",
+      "details": "lunch",
+      "id": 4
+    },
+    {
+      "date": "2017-12-05",
+      "amount": "110",
+      "details": "biriyani from hotel rahmath",
+      "id": 5,
+      "category": "Food"
+    },
+    {
+      "date": "2017-12-05",
+      "amount": "47",
+      "category": "Travel",
+      "details": "bus ticket to calicut ",
+      "id": 6
+    },
+    {
+      "date": "2017-11-01",
+      "amount": "30",
+      "category": "Travel",
+      "details": "auto charge",
+      "id": 8
+    },
+    {
+      "date": "2017-11-02",
+      "amount": "90",
+      "category": "Movie",
+      "details": "movie lavakusha",
+      "id": 9
+    },
+    {
+      "date": "2017-11-13",
+      "amount": "1600",
+      "category": "Food",
+      "details": "b'day treat",
+      "id": 10
+    },
+    {
+      "date": "2017-11-15",
+      "amount": "1800",
+      "category": "Exam Fee",
+      "details": "cat 2017 registration",
+      "id": 12
+    },
+    {
+      "date": "2017-11-13",
+      "amount": "47",
+      "category": "Travel",
+      "details": "bus ticket",
+      "id": 13
+    },
+    {
+      "date": "2017-12-05",
+      "category": "Travel",
+      "amount": "10",
+      "details": "bus ticket",
+      "id": 14
+    },
+    {
+      "date": "2017-12-05",
+      "category": "Food",
+      "amount": "40",
+      "details": "meals",
+      "id": 15
+    },
+    {
+      "date": "2017-12-06",
+      "amount": "250",
+      "category": "Shopping",
+      "details": "vegitables",
+      "id": 16
+    },
+    {
+      "date": "2017-12-06",
+      "amount": "9",
+      "category": "Shopping",
+      "details": "vegitables",
+      "id": 17
+    },
+    {
+      "id": 18
+    }
+  ]
+}
